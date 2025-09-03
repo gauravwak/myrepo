@@ -19,7 +19,7 @@ export default function App() {
     >
       <StatusBar barStyle="light-content" />
       <View style={styles.overlay}>
-        <Text style={styles.title}>🎲 Welcome to Monopoly project 🎲</Text>
+        <Text style={styles.title}>🎲 Welcome to Monopoly project demo 🎲</Text>
         <Text style={styles.subtitle}>Buy · Sell · Trade · Win!</Text>
 
         <TouchableOpacity style={styles.startBtn} onPress={() => {}}>
